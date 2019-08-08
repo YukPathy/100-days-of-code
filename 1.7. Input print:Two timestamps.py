@@ -14,3 +14,4 @@ seconds2 = int(input())
 result = (hour1*3600+minute1*60+seconds1)-(hour2*3600+minute2*60+seconds2)
 print(result);
 
+# why the negative result ? place the greater value in front 
